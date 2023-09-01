@@ -1,0 +1,37 @@
+ИП Трудников С.В.
+IPTrudnikov
+RNIcUdedo4
+
+ООО "ФПК21"
+FPK21
+4CMeS8cUxy
+
+ООО "МНС77"
+MNC77
+wWxInlhd8k
+
+ООО "Ранский ЛПХ"
+RanskyLPH
+hRkKRjSBKu
+
+ООО "Комплект-Поставка"
+KomplektPostavka
+yOcsVnlBpF
+
+ООО "РМК"
+RMK
+GqIfHJhhpY
+
+АО "Зандер"
+Zander
+iOzpKAqmnR
+
+Менеджер Иван
+Silant@Manager
+zpyHEnLlbK
+
+Сервисная компания Силант
+Silant@ServiceCompany
+dIabCXBFwK
+
+Для доступа в админ панель: login: admin password: admin
